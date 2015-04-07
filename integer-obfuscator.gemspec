@@ -15,8 +15,7 @@ Gem::Specification.new do |s|
   s.rubyforge_project = "integer-obfuscator"
 
   s.files =
-    ['.specification',
-    'Gemfile',
+    ['Gemfile',
     'MIT-LICENSE.txt',
     'README.md',
     'Rakefile',
