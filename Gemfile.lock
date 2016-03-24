@@ -1,0 +1,20 @@
+PATH
+  remote: .
+  specs:
+    integer-obfuscator (0.1.0)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    bluecloth (2.2.0)
+    rake (10.1.0)
+    yard (0.8.7.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bluecloth
+  integer-obfuscator!
+  rake (~> 10.0)
+  yard
