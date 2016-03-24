@@ -32,8 +32,8 @@ Gem::Specification.new do |s|
   s.executables   = []
   s.require_paths = ["lib"]
 
+  s.add_development_dependency "rake", "~> 10.0"
   s.add_development_dependency 'yard'
   s.add_development_dependency 'bluecloth'
-  s.add_development_dependency 'rspec'
 
 end
