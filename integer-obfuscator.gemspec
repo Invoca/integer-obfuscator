@@ -31,9 +31,4 @@ Gem::Specification.new do |s|
   s.test_files    = ["test/helper.rb", "test/test_integer_obfuscator.rb", "test/test_skip32.rb"]
   s.executables   = []
   s.require_paths = ["lib"]
-
-  s.add_development_dependency "rake", "~> 10.0"
-  s.add_development_dependency 'yard'
-  s.add_development_dependency 'bluecloth'
-
 end
