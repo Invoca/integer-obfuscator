@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: integer-obfuscator
+  annotations:
+    github.com/project-slug: Invoca/integer-obfuscator
+spec:
+  type: other
+  lifecycle: unknown
+  owner: octothorpe
