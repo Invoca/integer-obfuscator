@@ -9,6 +9,7 @@ metadata:
   tags:
   - ruby
   - open-source
+  - public
 spec:
   type: library
   lifecycle: production
