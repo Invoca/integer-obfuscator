@@ -10,6 +10,7 @@ metadata:
   - ruby
   - open-source
   - public
+  - gem
 spec:
   type: library
   lifecycle: production
