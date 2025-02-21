@@ -8,7 +8,7 @@ group :development do
   gem 'bluecloth'
   gem 'minitest'
   gem 'minitest-reporters'
-  gem 'rake',     '~> 10.0'
+  gem 'rake'
   gem 'test-unit'
   gem 'yard'
 end
