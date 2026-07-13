@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require_relative "simplecov_helper"
+
 require 'minitest/autorun'
 require 'minitest/reporters'
 Minitest::Reporters.use! [

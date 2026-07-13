@@ -9,6 +9,8 @@ group :development do
   gem 'minitest'
   gem 'minitest-reporters'
   gem 'rake'
+  gem 'simplecov', '~> 0.22'
+  gem 'simplecov-lcov', '~> 0.8'
   gem 'test-unit'
   gem 'yard'
 end
